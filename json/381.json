@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #381",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/381.png",
+  "dna": "9d54ec24ae1ded5f8fe16d96b938e8b282b9f202",
+  "edition": 381,
+  "date": 1645511836527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

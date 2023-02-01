@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #821",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/821.png",
+  "dna": "ceb4dcaf6d82d1472d3a7ac0e4eb5a3c0d16237e",
+  "edition": 821,
+  "date": 1645511027112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

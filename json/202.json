@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #202",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/202.png",
+  "dna": "121ebbdb4437a1821a9d6282a57a9b69e1da6064",
+  "edition": 202,
+  "date": 1645511288496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

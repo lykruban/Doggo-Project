@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #793",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/793.png",
+  "dna": "b04dee4424b0dc8a6be1d273a8a6dbf9677c3069",
+  "edition": 793,
+  "date": 1645511440378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

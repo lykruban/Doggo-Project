@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #145",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/145.png",
+  "dna": "f6d087ec1f22c43d3a08153bb8d4b91d207803bf",
+  "edition": 145,
+  "date": 1645510991942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "yellow glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #856",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/856.png",
+  "dna": "fc945cf16abd063d8a679daae5e8189a69bf8195",
+  "edition": 856,
+  "date": 1645511424620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

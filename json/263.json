@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #263",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/263.png",
+  "dna": "4a9bb998b5f5c57c262f7472652b2684b8f6c32e",
+  "edition": 263,
+  "date": 1645511229825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "green vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

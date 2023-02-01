@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #93",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/93.png",
+  "dna": "3df8fd46fb72a24d1de105b911319cdea33dbdf2",
+  "edition": 93,
+  "date": 1645511171107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

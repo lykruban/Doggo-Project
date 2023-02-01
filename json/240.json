@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #240",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/240.png",
+  "dna": "02cc6337e3618127183a726a803b08f5689c7f6e",
+  "edition": 240,
+  "date": 1645511086202,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #341",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/341.png",
+  "dna": "75084b62d793fa7c247ec4f28aced3f7d4ed2292",
+  "edition": 341,
+  "date": 1645511341618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

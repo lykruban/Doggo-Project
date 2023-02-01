@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #873",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/873.png",
+  "dna": "5d6720673dd070eb8a0da2bd4465f347b27bbe45",
+  "edition": 873,
+  "date": 1645511896023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "cyan glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

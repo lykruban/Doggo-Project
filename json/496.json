@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #496",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/496.png",
+  "dna": "4c02dfa6576b936f83c34d9c523648807e5be1cb",
+  "edition": 496,
+  "date": 1645511766782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

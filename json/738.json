@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #738",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/738.png",
+  "dna": "8e3f2050fd2199e77a20d358fce9d11f7baa042d",
+  "edition": 738,
+  "date": 1645511218818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

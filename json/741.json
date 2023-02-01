@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #741",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/741.png",
+  "dna": "dc7208cd237d66fdc49756d7928e236b487436fe",
+  "edition": 741,
+  "date": 1645511422257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

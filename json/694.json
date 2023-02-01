@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #694",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/694.png",
+  "dna": "6625c46a161348c8ef60e8772f655c31b00f2f5c",
+  "edition": 694,
+  "date": 1645511375267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head five",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

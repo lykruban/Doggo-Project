@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #709",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/709.png",
+  "dna": "dd7e34dfb643a5cf3d627b925d68bd07ded0b021",
+  "edition": 709,
+  "date": 1645510981394,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head one",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "orange tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

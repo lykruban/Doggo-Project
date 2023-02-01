@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #15",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "414be6c966d712af1c24d05f73490b1f717b79c2",
+  "edition": 15,
+  "date": 1645510985967,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER yellow "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

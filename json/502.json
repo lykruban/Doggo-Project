@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #502",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/502.png",
+  "dna": "0d9bfef27c781fb7f4677d636cdbd08e61c80c74",
+  "edition": 502,
+  "date": 1645511261779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

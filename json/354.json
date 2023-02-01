@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #354",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/354.png",
+  "dna": "97b699e98cc4e1d3b229e8a22655d4fda14671d1",
+  "edition": 354,
+  "date": 1645511566345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #548",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/548.png",
+  "dna": "b6b91f97e4514aef51def37ce1f3d6671c4f09ab",
+  "edition": 548,
+  "date": 1645511832522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

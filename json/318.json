@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #318",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/318.png",
+  "dna": "0419ac4932ca71c6f7e6dc10472564bc6ea22829",
+  "edition": 318,
+  "date": 1645511613546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

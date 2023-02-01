@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #299",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/299.png",
+  "dna": "8bbf666d3dbb57a38c223ee355d82212a75046a0",
+  "edition": 299,
+  "date": 1645511041227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

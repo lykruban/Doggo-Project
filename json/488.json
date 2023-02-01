@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #488",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/488.png",
+  "dna": "543f353d04065c47074ca0f73c380555f14e6374",
+  "edition": 488,
+  "date": 1645511617524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

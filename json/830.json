@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #830",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/830.png",
+  "dna": "6c80a1f3f642875ce7ec7e14686e518bdd06ca8c",
+  "edition": 830,
+  "date": 1645511023203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

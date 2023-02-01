@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #52",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/52.png",
+  "dna": "5dd4665cab076d586b29570d2ee4ef6aeed4b3d0",
+  "edition": 52,
+  "date": 1645511707029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #778",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/778.png",
+  "dna": "5c77bbba5db273fa5428b0c310fc4def815b43d9",
+  "edition": 778,
+  "date": 1645511378814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER green "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

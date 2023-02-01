@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #648",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/648.png",
+  "dna": "31fc1b5345cfcb51e1b7a1ddb27bc7b18c11d3b3",
+  "edition": 648,
+  "date": 1645511626147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

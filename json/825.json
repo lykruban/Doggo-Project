@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #825",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/825.png",
+  "dna": "830d1a955fa4d43a50570affe45cdb73888643cc",
+  "edition": 825,
+  "date": 1645511410357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

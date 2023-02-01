@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #509",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/509.png",
+  "dna": "fe1064c03701c7dfcc69e2182cc32fe8d455aeec",
+  "edition": 509,
+  "date": 1645511926936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "cyan glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

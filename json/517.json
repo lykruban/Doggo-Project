@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #517",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/517.png",
+  "dna": "b47a6a5c7edf6f2a7bb531540e7f18dedb79a250",
+  "edition": 517,
+  "date": 1645511397458,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #621",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/621.png",
+  "dna": "d7485b06a6279bb7b2fe97c0d86611cd245fce89",
+  "edition": 621,
+  "date": 1645511354480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #336",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/336.png",
+  "dna": "02180e1dd7aae7b01cca807435dbf96e76eaea3d",
+  "edition": 336,
+  "date": 1645511121270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

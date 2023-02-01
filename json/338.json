@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #338",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/338.png",
+  "dna": "f8e22352bc08928b6fadb241aaa1f35cf0d9e2ed",
+  "edition": 338,
+  "date": 1645511217035,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #597",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/597.png",
+  "dna": "bcbb607518e1133d143bd93fd5653a22f3fc3027",
+  "edition": 597,
+  "date": 1645510999874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

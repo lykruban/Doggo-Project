@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #108",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/108.png",
+  "dna": "fe2c4e87dba2855fbed2c3c5081b52ffc840212a",
+  "edition": 108,
+  "date": 1645511827402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #884",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/884.png",
+  "dna": "91d0172fc96578b1f9040c140fd2190c02da47be",
+  "edition": 884,
+  "date": 1645511401638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER red "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

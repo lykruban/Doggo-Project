@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #616",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/616.png",
+  "dna": "b17dac5088972c78d560f19cc36f91fbbbcb11ad",
+  "edition": 616,
+  "date": 1645511055923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

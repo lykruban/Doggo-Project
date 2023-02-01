@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #853",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/853.png",
+  "dna": "51047fa277093458f36184d444d52afe4b5d4cfe",
+  "edition": 853,
+  "date": 1645511851251,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

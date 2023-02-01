@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #826",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/826.png",
+  "dna": "2c72da1335427c55e88da294b03fb60ad8e18c70",
+  "edition": 826,
+  "date": 1645511061616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

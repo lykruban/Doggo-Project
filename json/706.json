@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #706",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/706.png",
+  "dna": "b6c5d6b7ebcc951a03eb4b75c25a1da365fb8483",
+  "edition": 706,
+  "date": 1645511789669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #852",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/852.png",
+  "dna": "a05741eb2543c54f01de1b779b2e9582ca6a51c0",
+  "edition": 852,
+  "date": 1645511057007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

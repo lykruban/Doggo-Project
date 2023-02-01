@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #759",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/759.png",
+  "dna": "51ba4221b2c3dbdeb27c553b24975d310d687fcb",
+  "edition": 759,
+  "date": 1645511044861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/505.png",
+  "dna": "e0f6942f5671428bac51a562aca99d16e43348c6",
+  "edition": 505,
+  "date": 1645511187764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

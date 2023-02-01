@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #478",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "dna": "9428ede52a620852069c55ba23674999793d7bb6",
+  "edition": 478,
+  "date": 1645511481080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

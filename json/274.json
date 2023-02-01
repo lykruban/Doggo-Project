@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #274",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/274.png",
+  "dna": "296ad50602d36ec52321f9776d571493347704fc",
+  "edition": 274,
+  "date": 1645511721886,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

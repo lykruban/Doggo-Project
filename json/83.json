@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #83",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/83.png",
+  "dna": "2218daebf449c2f528f68fb2e1495937d6e0f685",
+  "edition": 83,
+  "date": 1645511112905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

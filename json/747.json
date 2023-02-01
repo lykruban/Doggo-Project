@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #747",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/747.png",
+  "dna": "4c1f7057f7b6201829c1599d25a14a0c7963e63e",
+  "edition": 747,
+  "date": 1645511072899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #296",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/296.png",
+  "dna": "e950a48d09e1d8709cd1c248b2aead1d90bbc00f",
+  "edition": 296,
+  "date": 1645511139551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

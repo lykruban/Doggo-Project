@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #74",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/74.png",
+  "dna": "883aba606952a2a709717e33251b8081fd8dfeb7",
+  "edition": 74,
+  "date": 1645511762336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

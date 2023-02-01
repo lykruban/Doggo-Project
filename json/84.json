@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #84",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/84.png",
+  "dna": "0f200b12cf0483b4f56139beda3fad1011ea1ff1",
+  "edition": 84,
+  "date": 1645511517914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

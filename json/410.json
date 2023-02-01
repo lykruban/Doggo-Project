@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #410",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/410.png",
+  "dna": "8a1f023e0d9e23c06540720a9e2edf33e6b4cf4c",
+  "edition": 410,
+  "date": 1645511445611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

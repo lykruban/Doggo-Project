@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #91",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/91.png",
+  "dna": "e72d5fef05f4ecd27ee8a6ed800231b59ec3c8b4",
+  "edition": 91,
+  "date": 1645511280891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

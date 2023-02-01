@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #716",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/716.png",
+  "dna": "70ac9ff6bca10514847f00ea53ac6a755648c963",
+  "edition": 716,
+  "date": 1645511328008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

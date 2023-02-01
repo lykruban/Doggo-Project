@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #94",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/94.png",
+  "dna": "b0754774e0e2c4099521877169042fae5c1172bb",
+  "edition": 94,
+  "date": 1645511599761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

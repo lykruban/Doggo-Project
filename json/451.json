@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #451",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/451.png",
+  "dna": "bb9ce50bc8093d865b27b7f54b3593d82fea79f6",
+  "edition": 451,
+  "date": 1645511882881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

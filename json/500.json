@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #500",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/500.png",
+  "dna": "6d6fbe8ca49c4fa6b5c0a1addc3854444b540362",
+  "edition": 500,
+  "date": 1645511239343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

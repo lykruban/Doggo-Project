@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #105",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/105.png",
+  "dna": "e191cc14e0f641e937a5a021a6760293f8bca2da",
+  "edition": 105,
+  "date": 1645511717140,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "eyebrows "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

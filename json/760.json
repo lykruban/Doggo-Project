@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #760",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/760.png",
+  "dna": "2060efeb620630c2edbc4daf88dffe31d15adfcb",
+  "edition": 760,
+  "date": 1645511565379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

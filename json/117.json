@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #117",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/117.png",
+  "dna": "33466c02c42c87e5e0f4ad5132602bc77cceb281",
+  "edition": 117,
+  "date": 1645511941677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #571",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/571.png",
+  "dna": "da8bce3dcb5039deffd3118f3d277130c2f9eafc",
+  "edition": 571,
+  "date": 1645511539708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

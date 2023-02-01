@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #872",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/872.png",
+  "dna": "39035cecf1c5eb0bdf92bfcac4d08c640d6fe0d7",
+  "edition": 872,
+  "date": 1645511005454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "orange tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

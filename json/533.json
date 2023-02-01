@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #533",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/533.png",
+  "dna": "c05a92a7371102234e5f87c8ec0138b1e05a8889",
+  "edition": 533,
+  "date": 1645511686253,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

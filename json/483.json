@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #483",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/483.png",
+  "dna": "5b20020532eae13cb72043845c9849c5a54f3ea7",
+  "edition": 483,
+  "date": 1645511536031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

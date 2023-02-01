@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #521",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/521.png",
+  "dna": "993dcbca8dfb6da18010d8680565233f2278e691",
+  "edition": 521,
+  "date": 1645511740273,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

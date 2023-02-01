@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #491",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/491.png",
+  "dna": "55e813dc505c9e09607b87866586dcf9dfce3fa7",
+  "edition": 491,
+  "date": 1645511019869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "orange tongue lolipop "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

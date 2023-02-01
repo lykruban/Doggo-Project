@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #583",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/583.png",
+  "dna": "62b832538f3a4d32ee9318356488941070f98c89",
+  "edition": 583,
+  "date": 1645511608119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

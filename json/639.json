@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #639",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/639.png",
+  "dna": "9482b8b7a8566e2a6f5b0a648ff712f8db35855b",
+  "edition": 639,
+  "date": 1645511804535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #589",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/589.png",
+  "dna": "a82cbca9054828530ec2ffdccaa5d2afb3ab2890",
+  "edition": 589,
+  "date": 1645511225555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

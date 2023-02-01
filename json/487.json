@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #487",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/487.png",
+  "dna": "f41d17d16cb022b99bec0b5757c50662166a85ea",
+  "edition": 487,
+  "date": 1645511592027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

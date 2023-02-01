@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #441",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/441.png",
+  "dna": "ba90e87d8771587c98db6b0f31485da05fb5010c",
+  "edition": 441,
+  "date": 1645511300853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

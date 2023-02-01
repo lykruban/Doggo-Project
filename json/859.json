@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #859",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/859.png",
+  "dna": "9737561cd4912f3aed3de900543b1799afe5577b",
+  "edition": 859,
+  "date": 1645511029284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "orange tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

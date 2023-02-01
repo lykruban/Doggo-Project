@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #655",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/655.png",
+  "dna": "31369301569dd3955225a1a09f851a6e0739e8fb",
+  "edition": 655,
+  "date": 1645511216105,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

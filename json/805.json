@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #805",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/805.png",
+  "dna": "2d4f2036e61dd713ba3f6da04cc1c8739b03a174",
+  "edition": 805,
+  "date": 1645511665863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

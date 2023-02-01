@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #40",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/40.png",
+  "dna": "9d38f866a91ff1ee8476419581b3995924ef2b2b",
+  "edition": 40,
+  "date": 1645511644486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

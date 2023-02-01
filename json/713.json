@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #713",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/713.png",
+  "dna": "f370913242c3482c401c08dd5da9f4ecc592b00a",
+  "edition": 713,
+  "date": 1645511464195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

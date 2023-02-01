@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #665",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/665.png",
+  "dna": "7b0eda8f1ccffc7b1cf9b02279e1338e1f549d45",
+  "edition": 665,
+  "date": 1645511026139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "pink red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

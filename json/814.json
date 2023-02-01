@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #814",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/814.png",
+  "dna": "bdb97948083500e6a62185e6b7f2f2a782dc00ef",
+  "edition": 814,
+  "date": 1645511559292,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #812",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/812.png",
+  "dna": "267b409bd5017a0bdd00689e6012cac23c39cf59",
+  "edition": 812,
+  "date": 1645511875656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

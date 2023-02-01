@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #653",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/653.png",
+  "dna": "c08c0a7b74bcb257f0700aa5c694cfb6ae0e1261",
+  "edition": 653,
+  "date": 1645510990674,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "red glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

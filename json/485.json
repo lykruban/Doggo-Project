@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #485",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/485.png",
+  "dna": "79cbcf854a33e6a74ae84ff939dab86247a8ac19",
+  "edition": 485,
+  "date": 1645511767942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

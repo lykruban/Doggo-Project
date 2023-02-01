@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #749",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/749.png",
+  "dna": "8371fdca50f31b540d166fef1c7520d02e2ae7fe",
+  "edition": 749,
+  "date": 1645511928185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "cyan glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

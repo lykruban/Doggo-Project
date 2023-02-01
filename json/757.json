@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #757",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/757.png",
+  "dna": "773aa69cc0526ad9d7d131560c2cbda6111d9751",
+  "edition": 757,
+  "date": 1645511455760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

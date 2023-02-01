@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #365",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/365.png",
+  "dna": "96d25ab72018c2cb458fbafacbdf2c225b910d67",
+  "edition": 365,
+  "date": 1645511736977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

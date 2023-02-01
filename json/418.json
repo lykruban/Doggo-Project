@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #418",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/418.png",
+  "dna": "d09648e1abd32f97c57edc3f86d4ac3709d2a24b",
+  "edition": 418,
+  "date": 1645510980144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "viking hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

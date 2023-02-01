@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #598",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/598.png",
+  "dna": "cf27db5840c7cb87094db878348a1b702ad6c599",
+  "edition": 598,
+  "date": 1645511215167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple vomit "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

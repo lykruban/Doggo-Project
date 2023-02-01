@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #287",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/287.png",
+  "dna": "84a76c280720e950917aa2f6f6af630f1eacf199",
+  "edition": 287,
+  "date": 1645511610502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #291",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/291.png",
+  "dna": "03978520003267088a4a33a3ca4a05fb1a1735bc",
+  "edition": 291,
+  "date": 1645511335911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

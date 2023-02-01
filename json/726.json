@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #726",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/726.png",
+  "dna": "5ca8df024219822aeac702a66ee2f0e0eedc5000",
+  "edition": 726,
+  "date": 1645511473727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head six",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

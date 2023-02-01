@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #887",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/887.png",
+  "dna": "0013f2883eae7940dc719d60848bdcb73378f38c",
+  "edition": 887,
+  "date": 1645511457919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

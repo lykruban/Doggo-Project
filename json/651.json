@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #651",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/651.png",
+  "dna": "5105c560b1939ebb70f7cc05d090820d64ac3f90",
+  "edition": 651,
+  "date": 1645511355521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

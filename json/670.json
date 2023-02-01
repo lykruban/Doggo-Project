@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #670",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/670.png",
+  "dna": "221cd93d1b01d1d3568c94026b1f9272128e0b12",
+  "edition": 670,
+  "date": 1645511088345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

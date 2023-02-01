@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #618",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/618.png",
+  "dna": "7a2bc9c7eb1305c26b2c40f98d3af445efd710d3",
+  "edition": 618,
+  "date": 1645511208440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

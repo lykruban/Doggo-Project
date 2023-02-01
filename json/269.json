@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #269",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/269.png",
+  "dna": "0f1c4c4b68abeddc2572cff1cfa9578da22710bf",
+  "edition": 269,
+  "date": 1645511606030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

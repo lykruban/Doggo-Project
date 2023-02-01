@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #179",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/179.png",
+  "dna": "571e2be641dde364af584b4e54a31995777e80b6",
+  "edition": 179,
+  "date": 1645511177230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

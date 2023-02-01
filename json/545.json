@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #545",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/545.png",
+  "dna": "7c5b5a2894a81f3751ff5e75abb1553776b69fab",
+  "edition": 545,
+  "date": 1645511230890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "red vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

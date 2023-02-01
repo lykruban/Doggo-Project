@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #353",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/353.png",
+  "dna": "5cd01ce054bb1d94ff14837a66349e1d348a5435",
+  "edition": 353,
+  "date": 1645511028112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "orange tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #424",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/424.png",
+  "dna": "815151aeb400d6e31506c541084691feaf6885c1",
+  "edition": 424,
+  "date": 1645511636093,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

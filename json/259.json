@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #259",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/259.png",
+  "dna": "4c0ea6d6f8cdff1cf5b8541a56b31405cb26ca11",
+  "edition": 259,
+  "date": 1645511124926,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #815",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/815.png",
+  "dna": "b649200db473e26aacbda15726c8f066e0fbd0fb",
+  "edition": 815,
+  "date": 1645511126716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

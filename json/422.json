@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #422",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/422.png",
+  "dna": "c12674bba9cf850704a9a82f838f3905c283d168",
+  "edition": 422,
+  "date": 1645511319443,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

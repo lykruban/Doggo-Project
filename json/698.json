@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #698",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/698.png",
+  "dna": "32344434cfcc867867def7b4eb6bb03304d2a664",
+  "edition": 698,
+  "date": 1645511597395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

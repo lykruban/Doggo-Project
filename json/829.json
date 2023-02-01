@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #829",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/829.png",
+  "dna": "137b27562250c9399fdddbe247c46aa79a93908b",
+  "edition": 829,
+  "date": 1645511253872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

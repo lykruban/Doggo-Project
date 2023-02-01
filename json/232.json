@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #232",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/232.png",
+  "dna": "453f73b125b0e9f7d53c0d351ce4923b6ad7b310",
+  "edition": 232,
+  "date": 1645511035273,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

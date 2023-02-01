@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #459",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/459.png",
+  "dna": "bfc8bcdd196a17875df4ce63de9189487ff84276",
+  "edition": 459,
+  "date": 1645511014845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

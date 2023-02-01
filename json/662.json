@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #662",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/662.png",
+  "dna": "48c0fc9bbe6826eac80b82ee83809ee096309739",
+  "edition": 662,
+  "date": 1645511265696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

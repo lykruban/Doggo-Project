@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #12",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/12.png",
+  "dna": "4ab74e0c284b99bdcb088bdca5d685602a1ba34d",
+  "edition": 12,
+  "date": 1645511146079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

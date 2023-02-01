@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #725",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/725.png",
+  "dna": "941c6a245d4d52f68549ad728e56bc0e63a44c33",
+  "edition": 725,
+  "date": 1645511887837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

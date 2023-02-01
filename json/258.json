@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #258",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/258.png",
+  "dna": "564bc02c2a0da4735c2995b9c2ef312ae5eb4783",
+  "edition": 258,
+  "date": 1645511100005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

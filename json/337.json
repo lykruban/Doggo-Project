@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #337",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/337.png",
+  "dna": "572473f003382c34accebb8fbb531d153afdee45",
+  "edition": 337,
+  "date": 1645511318102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

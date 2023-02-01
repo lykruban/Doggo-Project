@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #715",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/715.png",
+  "dna": "dded3ef0983e80ba951a3aaac7cc62d57366ae5c",
+  "edition": 715,
+  "date": 1645511119320,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

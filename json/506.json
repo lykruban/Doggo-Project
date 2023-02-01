@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #506",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/506.png",
+  "dna": "1266c22144d4422f27cf459051bc8d8a219c2d06",
+  "edition": 506,
+  "date": 1645511460022,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

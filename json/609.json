@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #609",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/609.png",
+  "dna": "71d6b48d7dd5f0e32b93ca5eeaf06bb4b417b5c1",
+  "edition": 609,
+  "date": 1645510972895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "cyan glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

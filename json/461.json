@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #461",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/461.png",
+  "dna": "19e38dc7793acb48effb47db83d68d2c763b8ae4",
+  "edition": 461,
+  "date": 1645511589929,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

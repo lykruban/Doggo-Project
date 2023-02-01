@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #465",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/465.png",
+  "dna": "958bebc572479dd8bfa248c9da292cbffb997df1",
+  "edition": 465,
+  "date": 1645511773699,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

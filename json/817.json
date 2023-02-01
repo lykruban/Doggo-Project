@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #817",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/817.png",
+  "dna": "95cefec784196d0fb4e3fd8ad92a85d3e41087af",
+  "edition": 817,
+  "date": 1645511107461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

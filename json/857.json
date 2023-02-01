@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #857",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/857.png",
+  "dna": "e48ea9d36e4f58d0022b3f8c4b268b63e8ac10a0",
+  "edition": 857,
+  "date": 1645511922624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

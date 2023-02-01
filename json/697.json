@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #697",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/697.png",
+  "dna": "22669339cfa00311d95d24452827eb5cd31e7668",
+  "edition": 697,
+  "date": 1645511326783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

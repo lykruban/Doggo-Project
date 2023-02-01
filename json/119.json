@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #119",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/119.png",
+  "dna": "1076d1d6e91bfe290e9e8e14eb9c57a2b72052c3",
+  "edition": 119,
+  "date": 1645511939483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #35",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/35.png",
+  "dna": "be0bf8c5df8267d695d66425e55a2bd24e14dd8b",
+  "edition": 35,
+  "date": 1645511221440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "yellow tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

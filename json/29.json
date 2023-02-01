@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #29",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "dna": "e3e8315335993c47b045ef5c5d8f398c456b0c8e",
+  "edition": 29,
+  "date": 1645511196422,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

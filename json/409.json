@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #409",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/409.png",
+  "dna": "3e0d5e389ee046ad4c4fe1fde9e25f5154f472e3",
+  "edition": 409,
+  "date": 1645511406929,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

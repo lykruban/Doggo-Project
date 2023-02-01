@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #644",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/644.png",
+  "dna": "ad8dd55ec188cdfefabc3fd3a49882fa2e85be84",
+  "edition": 644,
+  "date": 1645511900015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "blue glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

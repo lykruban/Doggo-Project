@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #437",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/437.png",
+  "dna": "c01c628b5fe91be2e423c51e48992d1bc5c48232",
+  "edition": 437,
+  "date": 1645511370436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "cyan glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

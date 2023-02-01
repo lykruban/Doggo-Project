@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #191",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/191.png",
+  "dna": "26721af9bcef5d973624611bb3dc267a2a205e0e",
+  "edition": 191,
+  "date": 1645511505564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #888",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/888.png",
+  "dna": "6494651b994ce964b2ec73866cb39f0646f9898d",
+  "edition": 888,
+  "date": 1645511576734,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

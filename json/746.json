@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #746",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/746.png",
+  "dna": "a7fc9c40ea561e00801a59088de2381b62f2e5d1",
+  "edition": 746,
+  "date": 1645511404816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

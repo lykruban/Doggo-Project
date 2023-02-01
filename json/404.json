@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #404",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/404.png",
+  "dna": "89623b1b8ee669fdb1fb4c350f4d6a06713d0b58",
+  "edition": 404,
+  "date": 1645511140554,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

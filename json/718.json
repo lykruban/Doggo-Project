@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #718",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/718.png",
+  "dna": "0e36689c6f46b62c3c5767c663c5cf9fd2da8c84",
+  "edition": 718,
+  "date": 1645511102240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

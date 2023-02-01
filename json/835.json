@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #835",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/835.png",
+  "dna": "3349e953c9880244a16daf837c6a58e5b0c9df24",
+  "edition": 835,
+  "date": 1645511182274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #310",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/310.png",
+  "dna": "7555e1449dde58031c8bd2c6a961e5cfecab1f7c",
+  "edition": 310,
+  "date": 1645511508491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

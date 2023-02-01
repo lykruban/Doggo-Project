@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #144",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/144.png",
+  "dna": "4e1dea622bc8449be1231811ba1fce5f1310d28a",
+  "edition": 144,
+  "date": 1645511577679,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

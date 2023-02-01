@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #724",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/724.png",
+  "dna": "61ce0184aac4656682825cef7d69fcf4b7552396",
+  "edition": 724,
+  "date": 1645511631198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

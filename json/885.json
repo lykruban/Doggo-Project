@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #885",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/885.png",
+  "dna": "d7b00671a1ce5a7cb3ca0a599f49cd7c2395acd2",
+  "edition": 885,
+  "date": 1645511268187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

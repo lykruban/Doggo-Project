@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #473",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/473.png",
+  "dna": "0c4a387c3e98246ef403880bb789922b0ea82b7d",
+  "edition": 473,
+  "date": 1645511462010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

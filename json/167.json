@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #167",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/167.png",
+  "dna": "f22152efa76995a593f841af037d322c8fe0a442",
+  "edition": 167,
+  "date": 1645511792708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

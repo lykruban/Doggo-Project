@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #246",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/246.png",
+  "dna": "3bc73955ba26e23ce2413a286ceb828faf31bc45",
+  "edition": 246,
+  "date": 1645511758972,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

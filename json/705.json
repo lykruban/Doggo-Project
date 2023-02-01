@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #705",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/705.png",
+  "dna": "f060f51c42cf35012a19d0e4a1ecb63cd0796e97",
+  "edition": 705,
+  "date": 1645511550755,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

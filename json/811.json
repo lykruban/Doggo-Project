@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #811",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/811.png",
+  "dna": "606043ab7520758125159c1472b58d47dd4e3415",
+  "edition": 811,
+  "date": 1645511606980,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

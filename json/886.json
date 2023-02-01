@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #886",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/886.png",
+  "dna": "6f1a78d1b9760066f0fee3287dee39ec99a32788",
+  "edition": 886,
+  "date": 1645511826498,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

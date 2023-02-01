@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #2",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "4f7ee2757d5073eb8c80efb28aec64892e784761",
+  "edition": 2,
+  "date": 1645511943859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #820",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/820.png",
+  "dna": "b1fe3615b2c70e3ebaff27c4d641c07a2d129dce",
+  "edition": 820,
+  "date": 1645511530169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

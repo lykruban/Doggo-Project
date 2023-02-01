@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #636",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/636.png",
+  "dna": "0e5c1a7f06424c561dd31f77fdb43cc9c73f0b4c",
+  "edition": 636,
+  "date": 1645511372701,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER yellow "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

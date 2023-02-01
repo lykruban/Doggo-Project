@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #540",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/540.png",
+  "dna": "d9e5197f8a04ec19683b3c414abbec05f538fcaf",
+  "edition": 540,
+  "date": 1645511503387,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #275",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/275.png",
+  "dna": "2684ae51a3c3231a5ffd3883b35e43d2dfbadef0",
+  "edition": 275,
+  "date": 1645511223397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

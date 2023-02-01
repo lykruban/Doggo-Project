@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #631",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/631.png",
+  "dna": "36485fe62bd938ba5bfbe41debd2f7b567cf37f1",
+  "edition": 631,
+  "date": 1645511189915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

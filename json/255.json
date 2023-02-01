@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #255",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/255.png",
+  "dna": "8000448fe73a43b3224f89f2ee4263023e1f771e",
+  "edition": 255,
+  "date": 1645511078235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head two",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

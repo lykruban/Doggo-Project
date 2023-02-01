@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #348",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/348.png",
+  "dna": "ce526e0da334d7fa753993025549ef1bdf6b5f0b",
+  "edition": 348,
+  "date": 1645511122166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

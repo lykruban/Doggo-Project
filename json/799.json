@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #799",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/799.png",
+  "dna": "0b310d58843c7e4bd70b3a4059d84a581c8a551a",
+  "edition": 799,
+  "date": 1645511867565,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

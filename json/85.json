@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #85",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/85.png",
+  "dna": "232ae1fe2706565fe7b657c0048b6a59379281c8",
+  "edition": 85,
+  "date": 1645511396482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER green "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

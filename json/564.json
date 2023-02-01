@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #564",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/564.png",
+  "dna": "7472eb028b4db8d61302348cddbe72477a4c3b82",
+  "edition": 564,
+  "date": 1645511935102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

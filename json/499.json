@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #499",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/499.png",
+  "dna": "43197409b2f839ee8d51960f054d38df330e70ff",
+  "edition": 499,
+  "date": 1645511376605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER yellow "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

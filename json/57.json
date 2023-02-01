@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #57",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "dna": "d63279f33bb20fe9c44b444ced164e8d3cea9e08",
+  "edition": 57,
+  "date": 1645511188921,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "yellow tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

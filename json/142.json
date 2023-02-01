@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #142",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/142.png",
+  "dna": "d4d4584a30150f3f68352b29c82371ebf0b215c5",
+  "edition": 142,
+  "date": 1645511245366,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

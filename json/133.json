@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #133",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/133.png",
+  "dna": "8c572719bd2b89ac496a6c0d812e937b8ce2fbf0",
+  "edition": 133,
+  "date": 1645511680629,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #115",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/115.png",
+  "dna": "200d76dc79b6f241ad42215039d7966fea34371e",
+  "edition": 115,
+  "date": 1645511382330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER blue "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

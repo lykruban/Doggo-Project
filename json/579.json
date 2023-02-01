@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #579",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/579.png",
+  "dna": "90178546f1f14784896f303f7537a59af7b3dd17",
+  "edition": 579,
+  "date": 1645511311460,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

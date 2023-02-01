@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #332",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/332.png",
+  "dna": "68ec5e214dd9b98b3555285319ddcf804465ff16",
+  "edition": 332,
+  "date": 1645511134261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

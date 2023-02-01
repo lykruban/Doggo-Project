@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #317",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/317.png",
+  "dna": "bf24555ea59f3dbf2590b12f80824a87b64ca093",
+  "edition": 317,
+  "date": 1645511476663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

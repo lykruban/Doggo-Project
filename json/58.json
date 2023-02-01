@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #58",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/58.png",
+  "dna": "aaaaae0824cd5cb4d0e0287fbef81d096d1722a1",
+  "edition": 58,
+  "date": 1645511226637,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "cyan vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

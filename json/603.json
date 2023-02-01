@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #603",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/603.png",
+  "dna": "8ab31f9448ec4fb7cd259ce5c9c95e7eebbfe455",
+  "edition": 603,
+  "date": 1645511108474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

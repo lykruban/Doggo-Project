@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #851",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/851.png",
+  "dna": "60b02caca75c4daac5fd3b25e90c501ce618724e",
+  "edition": 851,
+  "date": 1645511030466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "blue tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #141",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/141.png",
+  "dna": "418d7e5446b7dbfda2fb15ad2d057c5cfc1a42c9",
+  "edition": 141,
+  "date": 1645510978862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "purple glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

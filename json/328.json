@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #328",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/328.png",
+  "dna": "309389187ee4e18cc3233ae11fbd67dc024c5ef6",
+  "edition": 328,
+  "date": 1645511017919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER cyan "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

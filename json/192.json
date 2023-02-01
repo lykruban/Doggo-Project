@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #192",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/192.png",
+  "dna": "fbedde51a9b09d26c5564a13e098b592859765bd",
+  "edition": 192,
+  "date": 1645511542281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #440",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/440.png",
+  "dna": "f42e3dfbdc94df718c7235736a56fbcb51b68d89",
+  "edition": 440,
+  "date": 1645511820268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

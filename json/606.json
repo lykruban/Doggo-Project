@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #606",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/606.png",
+  "dna": "422d277af7752e7ca9a56fc86a68330d887c0358",
+  "edition": 606,
+  "date": 1645511703438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

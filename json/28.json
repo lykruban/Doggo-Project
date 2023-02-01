@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #28",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/28.png",
+  "dna": "992fe9921b3e2464a5e2d4e3637bd7c8771e19b3",
+  "edition": 28,
+  "date": 1645511062610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

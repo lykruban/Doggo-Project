@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #752",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/752.png",
+  "dna": "7d49eb2fbfbbbd6263322f0937763ffbbfc5ff2a",
+  "edition": 752,
+  "date": 1645510982574,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER cyan "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

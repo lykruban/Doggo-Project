@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #592",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/592.png",
+  "dna": "a7050cdfa91f06b06a45bb1ae1d2f381da296101",
+  "edition": 592,
+  "date": 1645511114897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

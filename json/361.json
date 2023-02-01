@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #361",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/361.png",
+  "dna": "11101b12ece3634447ecff6f656cbdbcdc95f49a",
+  "edition": 361,
+  "date": 1645511066013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

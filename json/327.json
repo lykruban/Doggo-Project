@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #327",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/327.png",
+  "dna": "0426c21284ab6c51f1c5b9877f74941650e9e305",
+  "edition": 327,
+  "date": 1645511466524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

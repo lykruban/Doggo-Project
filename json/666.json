@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #666",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/666.png",
+  "dna": "25d9846e3e236c2232af3ea4df0ab02fa53d6c59",
+  "edition": 666,
+  "date": 1645511830479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

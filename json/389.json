@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #389",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/389.png",
+  "dna": "1e4e66924153a0df69c4329940c98a391c2a9115",
+  "edition": 389,
+  "date": 1645511434743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

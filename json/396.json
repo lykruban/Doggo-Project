@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #396",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/396.png",
+  "dna": "ecd0330fcf6f7c9b7de745486fc717af8d01a2a1",
+  "edition": 396,
+  "date": 1645511688562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

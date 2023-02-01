@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #780",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/780.png",
+  "dna": "29e80901cca0c45807eaef34046e9ca7d3e55303",
+  "edition": 780,
+  "date": 1645511630102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/407.png",
+  "dna": "c9c6de29e887554883b67a5a0035015e54288ae8",
+  "edition": 407,
+  "date": 1645511609318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #217",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/217.png",
+  "dna": "f400c0a24257cc90db5cea01ce49daebde4abc17",
+  "edition": 217,
+  "date": 1645511944971,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #523",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/523.png",
+  "dna": "67d4098d0735e2f7d02fe900dbb8685ce77b3455",
+  "edition": 523,
+  "date": 1645511883822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #845",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/845.png",
+  "dna": "6c1b323eae8cb23826849455d9c1705edd82f8b6",
+  "edition": 845,
+  "date": 1645511898804,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "blue glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

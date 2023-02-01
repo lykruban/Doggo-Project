@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #493",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/493.png",
+  "dna": "57cb110d7989046c06210826a96a695ff4240b79",
+  "edition": 493,
+  "date": 1645511157725,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

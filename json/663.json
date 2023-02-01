@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #663",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/663.png",
+  "dna": "0c7685784938395a3c8ab8885bda25dedc4ff9bf",
+  "edition": 663,
+  "date": 1645511356725,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

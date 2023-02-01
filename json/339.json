@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #339",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/339.png",
+  "dna": "f8947100368c04b7532ae6688de4536202f9a486",
+  "edition": 339,
+  "date": 1645511379911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

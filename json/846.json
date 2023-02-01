@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #846",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/846.png",
+  "dna": "66dffd610c369dcd0b0b99ba88c47591584f711e",
+  "edition": 846,
+  "date": 1645511348566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #24",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "de6061e3090f6c7bfee5b224d190717849ab793d",
+  "edition": 24,
+  "date": 1645511132356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

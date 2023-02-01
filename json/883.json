@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #883",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/883.png",
+  "dna": "af235c8d1797c9316b9a0aaf3c19f8c024ce087f",
+  "edition": 883,
+  "date": 1645511893281,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

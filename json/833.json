@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #833",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/833.png",
+  "dna": "8c6b8c158ae881dc2d6a0b8a9abe16510ed320e5",
+  "edition": 833,
+  "date": 1645511616556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

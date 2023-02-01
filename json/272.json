@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #272",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/272.png",
+  "dna": "ba33381394ca96b9bcaa81e0227f7e9b5f7497d0",
+  "edition": 272,
+  "date": 1645511855421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

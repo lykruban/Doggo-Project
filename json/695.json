@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #695",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/695.png",
+  "dna": "1176e22e19e542c04ddf91a2e3c3f60eff85d5ab",
+  "edition": 695,
+  "date": 1645511197551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

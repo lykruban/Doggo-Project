@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #143",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/143.png",
+  "dna": "157f5d1df2b115e2ac510d33823c792fad2a7c01",
+  "edition": 143,
+  "date": 1645511384538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER red "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

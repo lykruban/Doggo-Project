@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #148",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/148.png",
+  "dna": "f07f928d892a4bcbd7f1000b826b3d0c639e80a4",
+  "edition": 148,
+  "date": 1645511334851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

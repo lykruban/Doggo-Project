@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #446",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/446.png",
+  "dna": "5869adf51948b23ad5e0cb7f7eda8f8e71129e79",
+  "edition": 446,
+  "date": 1645511240954,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #498",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/498.png",
+  "dna": "280f7e3ff8631404e011aca7cc401a17bfb7e59b",
+  "edition": 498,
+  "date": 1645511049513,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

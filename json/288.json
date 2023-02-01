@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #288",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/288.png",
+  "dna": "b7f01793b12228d8f7e5fcfed1fd19ccd6655d14",
+  "edition": 288,
+  "date": 1645511817236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

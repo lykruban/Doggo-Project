@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #464",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/464.png",
+  "dna": "0c4189fb5c517f86df5fb1aade1c9b84f4fc4d99",
+  "edition": 464,
+  "date": 1645511292491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

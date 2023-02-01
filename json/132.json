@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #132",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/132.png",
+  "dna": "a3962e31ea76a0ee4fc3b3b41f160353c03d21d5",
+  "edition": 132,
+  "date": 1645511345162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

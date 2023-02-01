@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #751",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/751.png",
+  "dna": "8adee19a33107cb36007d8e948abb7a99d9bd923",
+  "edition": 751,
+  "date": 1645511210429,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "cyan vomit "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

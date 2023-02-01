@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #10",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/10.png",
+  "dna": "ead6da860f9eb5b3b1e9c122ad8becb08c0c4077",
+  "edition": 10,
+  "date": 1645511264397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

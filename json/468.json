@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #468",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/468.png",
+  "dna": "e1d49c69291f28de1942df5e633a20f13839ba90",
+  "edition": 468,
+  "date": 1645510975243,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

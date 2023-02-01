@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #543",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/543.png",
+  "dna": "dfc4288bf398dc34a89ea89cc0d77312f2ff472a",
+  "edition": 543,
+  "date": 1645511004283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "yellow glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

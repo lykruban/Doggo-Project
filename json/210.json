@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #210",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/210.png",
+  "dna": "abeb430941c51a06996f4efc9dcfd57464ffc058",
+  "edition": 210,
+  "date": 1645511123120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

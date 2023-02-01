@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #479",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/479.png",
+  "dna": "cfc23d33caba724b09b1824cbba3323c5c342b24",
+  "edition": 479,
+  "date": 1645511487287,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

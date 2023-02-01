@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #561",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/561.png",
+  "dna": "4f54d1a436c7bd6538db79d58054a2419113834c",
+  "edition": 561,
+  "date": 1645511194213,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head three",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

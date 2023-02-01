@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #87",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/87.png",
+  "dna": "295f3dd041a2a34e28b33250ff67012362173085",
+  "edition": 87,
+  "date": 1645511679351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

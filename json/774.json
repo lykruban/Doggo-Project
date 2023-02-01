@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #774",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/774.png",
+  "dna": "58a782c6c5306351dd7284537ec9508de0dd7576",
+  "edition": 774,
+  "date": 1645511524933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

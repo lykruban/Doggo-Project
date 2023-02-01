@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #262",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/262.png",
+  "dna": "409bae63d665c7a309ca32bb4ca5c583c2842aa0",
+  "edition": 262,
+  "date": 1645511076201,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

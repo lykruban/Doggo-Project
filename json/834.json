@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #834",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/834.png",
+  "dna": "c4b4587c90e0642d464f412929ad90a51407c21c",
+  "edition": 834,
+  "date": 1645511232969,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

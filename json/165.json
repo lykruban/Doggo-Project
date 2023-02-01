@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #165",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/165.png",
+  "dna": "2a0a442983fbe3d4404bcd0d09accf5d8d735be8",
+  "edition": 165,
+  "date": 1645511150040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

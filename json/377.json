@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #377",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/377.png",
+  "dna": "7deeba799a8a3f1e88e2fe7f5a476e85cac293e9",
+  "edition": 377,
+  "date": 1645511465399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

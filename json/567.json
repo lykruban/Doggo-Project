@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #567",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/567.png",
+  "dna": "e7b651889adad275f07347668f26fe59d0c76df1",
+  "edition": 567,
+  "date": 1645511548763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "eyelashes "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #426",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/426.png",
+  "dna": "d9f87dc48a2297db7e7dfb2e86a895dfc0adf068",
+  "edition": 426,
+  "date": 1645511554817,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

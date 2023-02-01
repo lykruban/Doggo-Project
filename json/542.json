@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #542",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/542.png",
+  "dna": "ae229a01e5155e8dcdeffbfa5d47a00093e5eeae",
+  "edition": 542,
+  "date": 1645510971482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER purple "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

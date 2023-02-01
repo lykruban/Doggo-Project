@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #401",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/401.png",
+  "dna": "92fc6a421a8a2a45685cf2b37c11389612261ef4",
+  "edition": 401,
+  "date": 1645511251536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

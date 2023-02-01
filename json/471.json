@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #471",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/471.png",
+  "dna": "8c8ca9aa1837db4329f49c206c4ee72b2a5028eb",
+  "edition": 471,
+  "date": 1645511184661,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

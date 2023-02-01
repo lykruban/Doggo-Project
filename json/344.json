@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #344",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/344.png",
+  "dna": "dff6454c4904177b67eae5bc3c594d86f0d333f0",
+  "edition": 344,
+  "date": 1645511009888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

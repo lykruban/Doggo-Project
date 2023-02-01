@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #556",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/556.png",
+  "dna": "a8d7d0565ac66272510fbd559ddc6e27947aa828",
+  "edition": 556,
+  "date": 1645511921535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

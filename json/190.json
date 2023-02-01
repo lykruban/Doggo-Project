@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #190",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/190.png",
+  "dna": "35d1f9344c0b7729fabf80921aa6432ce9a9222d",
+  "edition": 190,
+  "date": 1645511611652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

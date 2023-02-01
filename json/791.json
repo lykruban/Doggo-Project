@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #791",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/791.png",
+  "dna": "994547d6fa0d54c21d2ea50d2925d9d75a019214",
+  "edition": 791,
+  "date": 1645511903706,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "yellow glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

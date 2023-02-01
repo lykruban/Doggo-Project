@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #766",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/766.png",
+  "dna": "1906a8ff2c43949e288ad78b91f5f51e2f405bf6",
+  "edition": 766,
+  "date": 1645511283682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

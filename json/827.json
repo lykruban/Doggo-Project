@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #827",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/827.png",
+  "dna": "dd0a6344dfa07e44655a6ca4ad5372f5a2f2f998",
+  "edition": 827,
+  "date": 1645511323251,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

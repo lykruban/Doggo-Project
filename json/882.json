@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #882",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/882.png",
+  "dna": "518e6411aa1ed4ee9921ae4506d8c50fe5b57134",
+  "edition": 882,
+  "date": 1645511070463,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

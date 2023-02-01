@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #17",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/17.png",
+  "dna": "9f6e5ee977d4cddbcae185791f25e7a1086593d7",
+  "edition": 17,
+  "date": 1645511671121,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

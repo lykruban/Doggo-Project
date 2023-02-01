@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #633",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/633.png",
+  "dna": "cfda06cefd601839d588f1ce202a5ad6950d9dc1",
+  "edition": 633,
+  "date": 1645511897341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

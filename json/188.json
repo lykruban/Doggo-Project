@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #188",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/188.png",
+  "dna": "3b9ed181ff7500b9316a4eadd465e7bb8af60186",
+  "edition": 188,
+  "date": 1645511786119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

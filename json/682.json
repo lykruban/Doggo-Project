@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #682",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/682.png",
+  "dna": "4bb9df9ea67098b63cb9d27864ad9ea1b4c38707",
+  "edition": 682,
+  "date": 1645511304355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

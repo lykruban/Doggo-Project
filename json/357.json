@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #357",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/357.png",
+  "dna": "d7d98f4df16b0d5573a6cd3cadaf76e103b87c3e",
+  "edition": 357,
+  "date": 1645511389373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

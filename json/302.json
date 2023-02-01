@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #302",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/302.png",
+  "dna": "b0993d68ea0d5a88f9d36fdbaf493070a192882b",
+  "edition": 302,
+  "date": 1645511068125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

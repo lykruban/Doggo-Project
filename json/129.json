@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #129",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/129.png",
+  "dna": "ae315bfd1cf8ec334466a5d16fa523c4ff7cf85c",
+  "edition": 129,
+  "date": 1645511209525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple vomit "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

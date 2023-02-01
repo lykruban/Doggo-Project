@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #513",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/513.png",
+  "dna": "6dd0fe25da50a5c2daa901d1d404e545cfcffa17",
+  "edition": 513,
+  "date": 1645510976454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "viking hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER blue "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

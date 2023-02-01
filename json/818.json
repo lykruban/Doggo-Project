@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #818",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/818.png",
+  "dna": "3a742cb72b8c464ea72bd3fc0bec4655b3a8fa01",
+  "edition": 818,
+  "date": 1645511260418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

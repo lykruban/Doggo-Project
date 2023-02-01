@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #495",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/495.png",
+  "dna": "7cecdd68e8a2339fcff97c373cadb3067c1753f8",
+  "edition": 495,
+  "date": 1645511339356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "gentle men hat "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

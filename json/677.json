@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #677",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/677.png",
+  "dna": "28962e782ad8d971ac5410ed2fb9fb16d289cb40",
+  "edition": 677,
+  "date": 1645511713943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

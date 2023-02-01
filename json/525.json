@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #525",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/525.png",
+  "dna": "cf4021eee8825b12f9694c71c12a9a241984126f",
+  "edition": 525,
+  "date": 1645511008703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER green "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

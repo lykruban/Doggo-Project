@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #676",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/676.png",
+  "dna": "6e708b7eb8c6f268d0c3b66d5e5d460bb8e3b801",
+  "edition": 676,
+  "date": 1645511333645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

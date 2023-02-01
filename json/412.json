@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #412",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/412.png",
+  "dna": "d014ba2dea1e7c2adab6f6b2a1b6ac4936540b71",
+  "edition": 412,
+  "date": 1645511891472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

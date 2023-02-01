@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #219",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/219.png",
+  "dna": "5601dcf4a7f8f49dff9c8336d917f69c15822df4",
+  "edition": 219,
+  "date": 1645511469479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

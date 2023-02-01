@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #276",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/276.png",
+  "dna": "bac88343cdf728f586f5e58d1b2d9a09f8ff0f61",
+  "edition": 276,
+  "date": 1645511298544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

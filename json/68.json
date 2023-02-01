@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #68",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/68.png",
+  "dna": "fa6269cab777eb25fb9b818756e64e518c5beea3",
+  "edition": 68,
+  "date": 1645511510654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

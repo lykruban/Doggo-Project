@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #526",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/526.png",
+  "dna": "8eac0f7b652d0ed3af4d3357666fee38c58a7dbb",
+  "edition": 526,
+  "date": 1645511242377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

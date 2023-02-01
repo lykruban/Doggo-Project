@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #436",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/436.png",
+  "dna": "e81d78a47da561e939a077c8445b4511efb958dc",
+  "edition": 436,
+  "date": 1645511409126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

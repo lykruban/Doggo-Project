@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #874",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/874.png",
+  "dna": "23106723ecb32c641b844d7cac6eccb85156c54a",
+  "edition": 874,
+  "date": 1645511573536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

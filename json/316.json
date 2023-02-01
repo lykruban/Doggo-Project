@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #316",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/316.png",
+  "dna": "aad82ee12ef653c365417dbb680413b5b6b68365",
+  "edition": 316,
+  "date": 1645511343915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #783",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/783.png",
+  "dna": "cbe1b3a3667cae72662e3f62b3d96e6861fdf26f",
+  "edition": 783,
+  "date": 1645511305612,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

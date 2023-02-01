@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #306",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/306.png",
+  "dna": "b3043f439823756d19d301124b040ebd4370413c",
+  "edition": 306,
+  "date": 1645511700098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #147",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/147.png",
+  "dna": "9ac354b6e616802e76d90c4103ba7f4e266b41d5",
+  "edition": 147,
+  "date": 1645511772666,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

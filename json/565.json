@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #565",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/565.png",
+  "dna": "4bc4f9829cd49a122e27479c82da5bcd20756910",
+  "edition": 565,
+  "date": 1645510994301,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #679",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/679.png",
+  "dna": "a4198c8457cf39a030939900dc2fb9d10bf02509",
+  "edition": 679,
+  "date": 1645511416515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

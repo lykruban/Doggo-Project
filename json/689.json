@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #689",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/689.png",
+  "dna": "b5539058b5668e04b1fe30cccc46d0a7e7062bf1",
+  "edition": 689,
+  "date": 1645511363579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

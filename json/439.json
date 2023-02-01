@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #439",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/439.png",
+  "dna": "aa54493762b30a0418f4ce0887a45ef33ba91317",
+  "edition": 439,
+  "date": 1645511374008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

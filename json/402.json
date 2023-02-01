@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #402",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/402.png",
+  "dna": "d3eccbff2c753ea8161538c1bbb084afc7b466ab",
+  "edition": 402,
+  "date": 1645510983682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

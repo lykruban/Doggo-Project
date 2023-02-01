@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #849",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/849.png",
+  "dna": "b13fe5be24616f8638d3563162473428ceedfb2e",
+  "edition": 849,
+  "date": 1645511788417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

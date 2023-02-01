@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #293",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/293.png",
+  "dna": "e953dd70fcca58eb68ba7682d68b9cafe0edbecf",
+  "edition": 293,
+  "date": 1645511507510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #342",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/342.png",
+  "dna": "0ae101d25b695b2c55ed2aa97e9b3886d06d4bc9",
+  "edition": 342,
+  "date": 1645511094960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

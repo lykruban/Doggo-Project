@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #763",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/763.png",
+  "dna": "19d34e9925078308decc5e88a58dae54a22702fe",
+  "edition": 763,
+  "date": 1645511364630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

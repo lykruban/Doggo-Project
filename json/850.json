@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #850",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/850.png",
+  "dna": "5e25751c93de03df003f6a805f18abc82c81b5e3",
+  "edition": 850,
+  "date": 1645511938375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "yellow lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

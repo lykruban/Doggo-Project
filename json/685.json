@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #685",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/685.png",
+  "dna": "ad1f8186ddb1830fbe1ed5c57088a349f6ea8470",
+  "edition": 685,
+  "date": 1645511557201,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

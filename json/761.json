@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #761",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/761.png",
+  "dna": "9cc718e666e57d3316c5310b7a5499ba364fb9f8",
+  "edition": 761,
+  "date": 1645511064829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

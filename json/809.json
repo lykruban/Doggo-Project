@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #809",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/809.png",
+  "dna": "c2cec6b2c4f6384f96326c38a09bffaabe112a4e",
+  "edition": 809,
+  "date": 1645511124027,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

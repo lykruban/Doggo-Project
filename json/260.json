@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #260",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/260.png",
+  "dna": "1341bd36973fb5402a52c91c9a3eccd36c6ab728",
+  "edition": 260,
+  "date": 1645511342698,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

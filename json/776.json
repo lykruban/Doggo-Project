@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #776",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/776.png",
+  "dna": "76553714dbffb33e86798e9ad29976edd87a6eda",
+  "edition": 776,
+  "date": 1645511186616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

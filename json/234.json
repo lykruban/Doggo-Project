@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #234",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/234.png",
+  "dna": "e54f03d3de9345b614fc0a6872559451060efe44",
+  "edition": 234,
+  "date": 1645511936185,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

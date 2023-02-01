@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #360",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/360.png",
+  "dna": "a416a1d557474828f5a03665b5887365b4643a2d",
+  "edition": 360,
+  "date": 1645511212490,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "orange tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "EYELAZER yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

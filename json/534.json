@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #534",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/534.png",
+  "dna": "1f04f6a95eb733e593ea76bc39052b59c481ae66",
+  "edition": 534,
+  "date": 1645511198732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

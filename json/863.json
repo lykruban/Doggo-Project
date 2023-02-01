@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #863",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/863.png",
+  "dna": "0d9392341a67b7f9ec0811cba2c43f134a19351e",
+  "edition": 863,
+  "date": 1645511447605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

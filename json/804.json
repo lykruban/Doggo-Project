@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #804",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/804.png",
+  "dna": "0ddb226cabc1e7c6d76afc3db13fed0f3234a135",
+  "edition": 804,
+  "date": 1645511219698,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "orange tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

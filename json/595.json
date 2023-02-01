@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #595",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/595.png",
+  "dna": "ffadb7b1bd5d0483348adaae994e9416ae52d09b",
+  "edition": 595,
+  "date": 1645511754095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

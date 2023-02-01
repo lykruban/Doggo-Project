@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #881",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/881.png",
+  "dna": "d449f2c498736617e09b5fd616e9bf3c59e8e65a",
+  "edition": 881,
+  "date": 1645511129603,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

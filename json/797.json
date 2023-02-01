@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #797",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/797.png",
+  "dna": "1f37d1405322c690a4134e8f1915a2f5c3644851",
+  "edition": 797,
+  "date": 1645511499458,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

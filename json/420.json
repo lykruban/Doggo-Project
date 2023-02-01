@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #420",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/420.png",
+  "dna": "a3972170ccc38a70ab3fbc7f1a37b2f4d4d9c356",
+  "edition": 420,
+  "date": 1645511528051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

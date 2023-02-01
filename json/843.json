@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #843",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/843.png",
+  "dna": "4c4ad70d6ab91f56dbe721be531712a8921e3d1e",
+  "edition": 843,
+  "date": 1645511583849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

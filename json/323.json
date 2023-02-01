@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #323",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/323.png",
+  "dna": "38d933337b91ea1213a1816d587d0daaa42d8786",
+  "edition": 323,
+  "date": 1645511289812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

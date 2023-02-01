@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #175",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/175.png",
+  "dna": "76c9c3f4e805b0fb37b5c0296977dab072201448",
+  "edition": 175,
+  "date": 1645511012871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

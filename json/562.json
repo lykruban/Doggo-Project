@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #562",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/562.png",
+  "dna": "f70736f85af3c7471b829f002cdd8644c08128c8",
+  "edition": 562,
+  "date": 1645511403845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "EYELAZER purple "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #284",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/284.png",
+  "dna": "84c6c350f85b87935531f926d2b408db3c6f5b83",
+  "edition": 284,
+  "date": 1645511165318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

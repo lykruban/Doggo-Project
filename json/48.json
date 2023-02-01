@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #48",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "e88001fdc51d34c585ad6f734d65fdd47bdb1a17",
+  "edition": 48,
+  "date": 1645511519885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

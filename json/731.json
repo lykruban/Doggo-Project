@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #731",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/731.png",
+  "dna": "389ae4206d9695a2e93fac915019f9c4e38f3b44",
+  "edition": 731,
+  "date": 1645511835509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

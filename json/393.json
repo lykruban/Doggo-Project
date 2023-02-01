@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #393",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/393.png",
+  "dna": "7166df6bad8083227677fe89ea6f16fd53f2ff22",
+  "edition": 393,
+  "date": 1645511400440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

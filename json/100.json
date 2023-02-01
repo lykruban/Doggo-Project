@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #100",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/100.png",
+  "dna": "088507b69bdb473bdbe28c9f128c7e68a940fb8e",
+  "edition": 100,
+  "date": 1645511844888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #383",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/383.png",
+  "dna": "622cdf6a643c3a87cf728f8f65aa1b2ec64cb3b9",
+  "edition": 383,
+  "date": 1645511067040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

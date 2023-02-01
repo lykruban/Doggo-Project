@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #340",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/340.png",
+  "dna": "b369e86d89ae5b48ebe6b9ab21cb3b0f90de0861",
+  "edition": 340,
+  "date": 1645511179193,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

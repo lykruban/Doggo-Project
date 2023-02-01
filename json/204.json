@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #204",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/204.png",
+  "dna": "11b3068184233141c04acfb69de678e1bbf0182b",
+  "edition": 204,
+  "date": 1645511743768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

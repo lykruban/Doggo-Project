@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #222",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/222.png",
+  "dna": "9fe5c4dcffeaed444fdb42e8eb4aeddf1a5834ae",
+  "edition": 222,
+  "date": 1645511929263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "purple glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

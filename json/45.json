@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #45",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "6b328a5de2fcc7b145dbfaa729aa6d49e44cd942",
+  "edition": 45,
+  "date": 1645511309340,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

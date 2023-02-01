@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #195",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/195.png",
+  "dna": "2f7072d9cf1614007127e726066c1540d17d440e",
+  "edition": 195,
+  "date": 1645511332588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

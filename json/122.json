@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #122",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/122.png",
+  "dna": "848ea662f40ac593826c291a4f71d8d732168117",
+  "edition": 122,
+  "date": 1645511388043,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

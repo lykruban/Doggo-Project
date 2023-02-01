@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #708",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/708.png",
+  "dna": "a9a174f3b2074d6b77a92ee2b58da8bb6dbd5166",
+  "edition": 708,
+  "date": 1645511659371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

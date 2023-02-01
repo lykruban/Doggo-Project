@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #871",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/871.png",
+  "dna": "d3eabfaa988f167f1799a805cdf981e0f02039f2",
+  "edition": 871,
+  "date": 1645511591092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #173",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/173.png",
+  "dna": "1142c41ad408e64902fbba615176803cd8657e7c",
+  "edition": 173,
+  "date": 1645511562060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

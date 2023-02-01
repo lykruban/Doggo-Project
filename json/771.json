@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #771",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/771.png",
+  "dna": "954591c550a2e99e5e5f2f5c5ee1d6cfadae7d4f",
+  "edition": 771,
+  "date": 1645511093730,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

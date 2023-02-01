@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #414",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/414.png",
+  "dna": "576382001e8b4860db700b2264cad23916dc1e89",
+  "edition": 414,
+  "date": 1645511793847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #368",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/368.png",
+  "dna": "8f81c8c0b05b03048069c455546c618cb69ebaba",
+  "edition": 368,
+  "date": 1645511669720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

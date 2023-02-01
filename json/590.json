@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #590",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/590.png",
+  "dna": "7ee5f21bcbbc8c18a08803b8b7afd53fd4f0d579",
+  "edition": 590,
+  "date": 1645511732455,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

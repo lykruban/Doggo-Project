@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #674",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/674.png",
+  "dna": "266ff46ba6339880ccff636cfd4238013e538a6a",
+  "edition": 674,
+  "date": 1645511201874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

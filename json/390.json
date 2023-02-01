@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #390",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/390.png",
+  "dna": "b3916aa34444d4d6f5cd4ab15f8c40f8c24291f3",
+  "edition": 390,
+  "date": 1645511544441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

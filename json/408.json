@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #408",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/408.png",
+  "dna": "e41e98f67f230c379a0604426ef6cd5d989ba939",
+  "edition": 408,
+  "date": 1645511444485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

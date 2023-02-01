@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #832",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/832.png",
+  "dna": "c1877b03968a00e98ea010edac290a7af14475e4",
+  "edition": 832,
+  "date": 1645511849035,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

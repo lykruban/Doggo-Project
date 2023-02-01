@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #128",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/128.png",
+  "dna": "94559b05cd51c302276ebf880883c888055035d1",
+  "edition": 128,
+  "date": 1645511643561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

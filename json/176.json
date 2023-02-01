@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #176",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/176.png",
+  "dna": "3ce5a22dde2fd8a43038b0fed4149bd3073e7f13",
+  "edition": 176,
+  "date": 1645511716123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

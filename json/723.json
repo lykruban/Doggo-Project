@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #723",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/723.png",
+  "dna": "b70899ee1b5cdea8ddd187d4ff33a41731c9b533",
+  "edition": 723,
+  "date": 1645511405945,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #664",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/664.png",
+  "dna": "f2f6a1ae41854def0db3b23e3d898d4a7f57e9f7",
+  "edition": 664,
+  "date": 1645511925853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "yellow hearts "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

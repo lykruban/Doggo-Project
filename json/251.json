@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #251",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/251.png",
+  "dna": "564a1c9a8cfe6d73bb74ee9cd838df09c0a496ba",
+  "edition": 251,
+  "date": 1645511715079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

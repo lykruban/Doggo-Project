@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #512",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/512.png",
+  "dna": "c7804df26e1793f8461c7ac54cd4e0484196b221",
+  "edition": 512,
+  "date": 1645511127640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

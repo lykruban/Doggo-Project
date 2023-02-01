@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #236",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/236.png",
+  "dna": "56872dc1ec80664b57eaa2086dc7cc7426f6bc13",
+  "edition": 236,
+  "date": 1645511255049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

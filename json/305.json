@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #305",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/305.png",
+  "dna": "61959a443433d45c4d340a4d954a92d22c1bcb0a",
+  "edition": 305,
+  "date": 1645511204066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

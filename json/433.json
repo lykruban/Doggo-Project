@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #433",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/433.png",
+  "dna": "b552271ff77d3bfd6412ee8ac4fbe515926cf0af",
+  "edition": 433,
+  "date": 1645511377690,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

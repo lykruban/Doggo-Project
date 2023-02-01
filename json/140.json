@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #140",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/140.png",
+  "dna": "443cd789996095d34deb4b648e1ead0bfca4ef19",
+  "edition": 140,
+  "date": 1645511856562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

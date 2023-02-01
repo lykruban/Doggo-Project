@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #229",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/229.png",
+  "dna": "49838d80f63f986e71fc7e53cb7aaef9857a9d7e",
+  "edition": 229,
+  "date": 1645511942774,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

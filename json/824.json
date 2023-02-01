@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #824",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/824.png",
+  "dna": "a1ab87a0d9c77fd91fb35ccd3b395c4211a9760c",
+  "edition": 824,
+  "date": 1645511213358,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

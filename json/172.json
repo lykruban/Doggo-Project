@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #172",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/172.png",
+  "dna": "8326f8db55ba11102da4bd460c413fb3e1319e6d",
+  "edition": 172,
+  "date": 1645511438040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

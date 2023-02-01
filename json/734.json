@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #734",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/734.png",
+  "dna": "8d50b9c198499a4a770d434a70d8f93a1d14bd3f",
+  "edition": 734,
+  "date": 1645511413331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

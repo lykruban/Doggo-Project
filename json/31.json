@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #31",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "cae54511f0c99c9dc05c598d4a21a4a7e69d50c4",
+  "edition": 31,
+  "date": 1645511051678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

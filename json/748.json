@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #748",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/748.png",
+  "dna": "6c6ab4f1b31fb0cf6f628d6f2d0ea32e644f9075",
+  "edition": 748,
+  "date": 1645511082672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head two",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

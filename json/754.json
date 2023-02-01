@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #754",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/754.png",
+  "dna": "2c67269f1cc207d8c86921c5f21687e64cc68e38",
+  "edition": 754,
+  "date": 1645511294800,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "green lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

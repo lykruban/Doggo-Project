@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #842",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/842.png",
+  "dna": "e38999f32f2eb2b154d950eb951639786e556ede",
+  "edition": 842,
+  "date": 1645511496330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

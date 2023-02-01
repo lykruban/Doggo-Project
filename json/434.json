@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #434",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/434.png",
+  "dna": "fb72b4b51e4671c5069f65f9d0d6ac7b3eca9e2f",
+  "edition": 434,
+  "date": 1645511282357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

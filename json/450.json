@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #450",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/450.png",
+  "dna": "b26dfd4f4a83e8b623c610bbce725f8658bd04c9",
+  "edition": 450,
+  "date": 1645511365680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

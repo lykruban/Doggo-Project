@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #614",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/614.png",
+  "dna": "3a9317900181c2cc7ef3aa51d342f9d5a2ccbd13",
+  "edition": 614,
+  "date": 1645511907489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "red hearts "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

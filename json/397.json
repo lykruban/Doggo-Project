@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #397",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/397.png",
+  "dna": "ffde2615f17c2b7e51d538b6fd15f1028f07c576",
+  "edition": 397,
+  "date": 1645511450501,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

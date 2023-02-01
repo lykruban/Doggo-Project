@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #71",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/71.png",
+  "dna": "fae0df5079005e9e9144e8479120a5492ab878da",
+  "edition": 71,
+  "date": 1645511902497,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "EYELAZER red "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

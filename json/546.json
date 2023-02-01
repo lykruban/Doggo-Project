@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #546",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/546.png",
+  "dna": "8a27e4d8f9554c329fa40bdd9b7265944dd9a088",
+  "edition": 546,
+  "date": 1645511325721,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #180",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/180.png",
+  "dna": "dc9b32c46f5af3cd9402922475077dd9c49f60c2",
+  "edition": 180,
+  "date": 1645511824235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

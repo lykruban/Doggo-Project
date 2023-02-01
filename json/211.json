@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #211",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/211.png",
+  "dna": "1e4e2cb4241a923efc62e30536e86bec3ca630b8",
+  "edition": 211,
+  "date": 1645511821178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #120",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/120.png",
+  "dna": "e09877463024b7c9c6e8ac67da183a2df6d5a036",
+  "edition": 120,
+  "date": 1645511838577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

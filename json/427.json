@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #427",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/427.png",
+  "dna": "0d0846ab43ece3dc1f79af749d2c4a71df6c86aa",
+  "edition": 427,
+  "date": 1645511329386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

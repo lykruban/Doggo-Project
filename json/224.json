@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #224",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/224.png",
+  "dna": "4901b32e011b2dfa94c6de740e6dfd500d7b1536",
+  "edition": 224,
+  "date": 1645511271971,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #62",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/62.png",
+  "dna": "087d1cfd76768cee2aec16afe3d542516383a757",
+  "edition": 62,
+  "date": 1645511910280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "purple glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

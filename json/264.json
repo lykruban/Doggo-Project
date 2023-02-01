@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #264",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/264.png",
+  "dna": "24cfd49f49a181806c5b9a3f11a92b2160f61784",
+  "edition": 264,
+  "date": 1645511815997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

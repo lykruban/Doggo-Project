@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #249",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/249.png",
+  "dna": "47837a685005c2f2088a1835f51a67d12e3688ac",
+  "edition": 249,
+  "date": 1645511913857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

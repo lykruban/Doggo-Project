@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #560",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/560.png",
+  "dna": "8496382cb3caf6595081c07a57d08911d2ad7c82",
+  "edition": 560,
+  "date": 1645511798543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

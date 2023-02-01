@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #435",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/435.png",
+  "dna": "5d8c76c5c788afabe9b6df6741a548bf0eccf5d7",
+  "edition": 435,
+  "date": 1645511818274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

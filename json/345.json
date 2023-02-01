@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #345",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/345.png",
+  "dna": "ab62f4755da0f25bd651cb8863487cb58fd3953f",
+  "edition": 345,
+  "date": 1645511699070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

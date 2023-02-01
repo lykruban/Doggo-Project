@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #123",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/123.png",
+  "dna": "79a279fadb8972e2d8de33782a9455e545780d28",
+  "edition": 123,
+  "date": 1645511423535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #247",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/247.png",
+  "dna": "f23dd55641fac3a9c10062e1df0029b5e49d1d80",
+  "edition": 247,
+  "date": 1645511874570,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

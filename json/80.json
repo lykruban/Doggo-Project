@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #80",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/80.png",
+  "dna": "60832ebed48d9a9964cc3f091e47941d61583122",
+  "edition": 80,
+  "date": 1645511269341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

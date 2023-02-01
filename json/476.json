@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #476",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/476.png",
+  "dna": "4052f0419bd117480ad3cb7050b3710e8a607b97",
+  "edition": 476,
+  "date": 1645511399474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "neck five",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

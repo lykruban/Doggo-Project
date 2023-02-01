@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #767",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/767.png",
+  "dna": "f65dbbaa1797778d8cc12b81e31984b16e4d0e2e",
+  "edition": 767,
+  "date": 1645511645588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

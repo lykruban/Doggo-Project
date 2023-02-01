@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #596",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/596.png",
+  "dna": "8cba1bd6a65e6db34592e84345c1ff915c65024c",
+  "edition": 596,
+  "date": 1645511800555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

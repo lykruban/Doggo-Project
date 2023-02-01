@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #622",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/622.png",
+  "dna": "3ce6fb449e56c3e3525b80fe12140056265e7443",
+  "edition": 622,
+  "date": 1645511418758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

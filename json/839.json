@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #839",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/839.png",
+  "dna": "13126a61eb44f27112948e00a6a4040570612fb3",
+  "edition": 839,
+  "date": 1645511053898,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

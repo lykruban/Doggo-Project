@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #632",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/632.png",
+  "dna": "43beab6db2612d490be6c52f52c9d1ba6701d982",
+  "edition": 632,
+  "date": 1645511634011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #742",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/742.png",
+  "dna": "795219f64f1da95bf1b1a0a7def0eb57c760fa8b",
+  "edition": 742,
+  "date": 1645511486288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #497",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/497.png",
+  "dna": "853ea734acfa0f0fed495f0872d39fcfa614db93",
+  "edition": 497,
+  "date": 1645511748503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

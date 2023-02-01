@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #168",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/168.png",
+  "dna": "92e0e3aa8967096eccb60a19ac03b466a1c47e0e",
+  "edition": 168,
+  "date": 1645511237887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "eyelashes "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

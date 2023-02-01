@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #582",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/582.png",
+  "dna": "22fb3e7594d35569ffd6cd3cd19241f8b8781976",
+  "edition": 582,
+  "date": 1645511371550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base five",
+      "value": "five "
+    },
+    {
+      "trait_type": "ears five",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head five",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth five",
+      "value": "cigarette "
+    },
+    {
+      "trait_type": "eyes five",
+      "value": "red glasses "
+    },
+    {
+      "trait_type": "legs five",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

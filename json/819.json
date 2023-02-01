@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #819",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/819.png",
+  "dna": "be16d6c08db8a50bf194e49eeb9e5fc80e19f5f4",
+  "edition": 819,
+  "date": 1645511603741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

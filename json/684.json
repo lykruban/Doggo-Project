@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #684",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/684.png",
+  "dna": "667aa12b3f9bee68f47fa6808e602ba93616949b",
+  "edition": 684,
+  "date": 1645510998643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

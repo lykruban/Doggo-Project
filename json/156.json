@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #156",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/156.png",
+  "dna": "f3a1cb8e5e82b73b78d11de726435332b45b57a3",
+  "edition": 156,
+  "date": 1645511173334,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "yellow tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

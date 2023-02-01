@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #554",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/554.png",
+  "dna": "6f948145798b1e6dda66995b1db7522c8687714e",
+  "edition": 554,
+  "date": 1645511915223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

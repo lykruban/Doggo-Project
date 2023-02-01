@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #98",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/98.png",
+  "dna": "cf4c27c7b4702078c2bdb5f0e23ece35cf7e14ac",
+  "edition": 98,
+  "date": 1645511598598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

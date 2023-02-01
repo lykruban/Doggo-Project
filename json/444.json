@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #444",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/444.png",
+  "dna": "5c5040441f23b072b43926620cf82497e73c67f0",
+  "edition": 444,
+  "date": 1645511924770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "green glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

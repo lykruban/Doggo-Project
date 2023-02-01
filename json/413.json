@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #413",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/413.png",
+  "dna": "414868778f21f92c38bf8efd214abf8c95deaa3b",
+  "edition": 413,
+  "date": 1645511433655,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

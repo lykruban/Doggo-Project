@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #712",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/712.png",
+  "dna": "038bb362140720255db5754c654be26b25833d97",
+  "edition": 712,
+  "date": 1645511291138,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

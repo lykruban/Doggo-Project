@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #453",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/453.png",
+  "dna": "73e1e14882f1cfa6b0dba1353c20fc448edd6978",
+  "edition": 453,
+  "date": 1645511461036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

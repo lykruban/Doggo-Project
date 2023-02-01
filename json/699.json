@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #699",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/699.png",
+  "dna": "f8043aac45f4896695d3d272802c9f899e08df21",
+  "edition": 699,
+  "date": 1645511148055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #750",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/750.png",
+  "dna": "098774bcb3aec68553516e214e5c001f17fa01b6",
+  "edition": 750,
+  "date": 1645511797502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

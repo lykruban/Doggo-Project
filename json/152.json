@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #152",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/152.png",
+  "dna": "f5d9304a61dfc0ab68b3935e550cc902ab728ab6",
+  "edition": 152,
+  "date": 1645511301913,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

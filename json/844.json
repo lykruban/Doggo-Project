@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #844",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/844.png",
+  "dna": "a895f2b9e80d89657c65614f09ace1f548f7d4b2",
+  "edition": 844,
+  "date": 1645511021011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

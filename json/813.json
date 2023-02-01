@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #813",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/813.png",
+  "dna": "9c2400798f914f050252951ed5b60e8a3dc49b55",
+  "edition": 813,
+  "date": 1645511193055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #447",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/447.png",
+  "dna": "177c395218208f3a6a44d53722af3ab27258a431",
+  "edition": 447,
+  "date": 1645511428993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

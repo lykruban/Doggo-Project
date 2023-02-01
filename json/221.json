@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #221",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/221.png",
+  "dna": "bb6fcf74252e2585b15afc59f6527f01a6401d98",
+  "edition": 221,
+  "date": 1645511712693,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #303",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/303.png",
+  "dna": "6f54ef61aa4532147bf65ea8691bcf5403ba38bd",
+  "edition": 303,
+  "date": 1645511655093,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

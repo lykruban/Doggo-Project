@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #838",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/838.png",
+  "dna": "7693c6a198cb2ec31947a76a8b364bcf9f676e10",
+  "edition": 838,
+  "date": 1645511156829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

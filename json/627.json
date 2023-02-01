@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #627",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/627.png",
+  "dna": "68181dbf4990a4ed45a99255373b7aa63f68b950",
+  "edition": 627,
+  "date": 1645511098996,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

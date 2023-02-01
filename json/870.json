@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #870",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/870.png",
+  "dna": "70d51fd72e4964d6d34f0d10fd2b3fc2f8eac004",
+  "edition": 870,
+  "date": 1645511045963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

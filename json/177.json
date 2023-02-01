@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #177",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/177.png",
+  "dna": "40ffae628d13a207bdf4edc39b32942a983f2871",
+  "edition": 177,
+  "date": 1645511477635,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

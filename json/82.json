@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #82",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/82.png",
+  "dna": "ca6597cfdde631696169e390a3fc0088a4067559",
+  "edition": 82,
+  "date": 1645511016865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "EYELAZER purple "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

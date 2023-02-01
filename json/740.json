@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #740",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/740.png",
+  "dna": "e400ed749e4d90d64c0a2c5f329da6d1c14bac4a",
+  "edition": 740,
+  "date": 1645511579837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

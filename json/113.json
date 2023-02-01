@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #113",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/113.png",
+  "dna": "77d06c9b900fe10eab705d53ea9332f8d1831421",
+  "edition": 113,
+  "date": 1645511205250,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "red vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

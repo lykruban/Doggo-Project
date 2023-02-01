@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #865",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/865.png",
+  "dna": "ecf7cec4ce5acf4e7fee8b4db127a2c0a7359597",
+  "edition": 865,
+  "date": 1645511024183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

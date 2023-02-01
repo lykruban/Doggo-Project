@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #394",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/394.png",
+  "dna": "1fef393a5744aeb6e96951d355db2abb13d87f55",
+  "edition": 394,
+  "date": 1645511558333,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

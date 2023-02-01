@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #516",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/516.png",
+  "dna": "6e281e25c53118d14a0af6612b2b14dc52cd8e62",
+  "edition": 516,
+  "date": 1645511563469,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

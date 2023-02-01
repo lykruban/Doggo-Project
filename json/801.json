@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #801",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/801.png",
+  "dna": "3dbc596c5aa5ebd806f111e9a873ca8d3cc863b2",
+  "edition": 801,
+  "date": 1645511932557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

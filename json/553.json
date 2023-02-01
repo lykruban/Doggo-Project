@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #553",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/553.png",
+  "dna": "3bcbc54fa675717cd681bd0297638c4a180f5244",
+  "edition": 553,
+  "date": 1645511174228,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

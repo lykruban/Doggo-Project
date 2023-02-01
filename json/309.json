@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #309",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/309.png",
+  "dna": "b7051c6a49796e2d9c72f604298ddf63f48badfe",
+  "edition": 309,
+  "date": 1645511002044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

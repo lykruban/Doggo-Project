@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #150",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/150.png",
+  "dna": "c9d4529ee41f934ebee840afb18a5f62d613d4b0",
+  "edition": 150,
+  "date": 1645511048323,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

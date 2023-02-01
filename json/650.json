@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #650",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/650.png",
+  "dna": "33901fbc2b7ebcd07c6e28604b79a24a8f2df774",
+  "edition": 650,
+  "date": 1645511861338,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

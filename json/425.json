@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #425",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/425.png",
+  "dna": "0a0f96c530b5714cd7b712fed9838f99574ae5a1",
+  "edition": 425,
+  "date": 1645511073914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat red "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

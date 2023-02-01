@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #131",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/131.png",
+  "dna": "bb877fc6ac0bd1ac5b79e1ebd64cd35a53f1db02",
+  "edition": 131,
+  "date": 1645511468493,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "purple glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

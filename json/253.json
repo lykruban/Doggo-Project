@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #253",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/253.png",
+  "dna": "76b1487c01e75491a7e0ed4dc9f804752f79c8c3",
+  "edition": 253,
+  "date": 1645511227692,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

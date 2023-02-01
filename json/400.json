@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #400",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/400.png",
+  "dna": "cb7ad637801f29cc6ab04e648c508f65f7ac1c4d",
+  "edition": 400,
+  "date": 1645511125816,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

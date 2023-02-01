@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #602",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/602.png",
+  "dna": "d607a6d1379465f1d4ff952e4f847f6bc720bece",
+  "edition": 602,
+  "date": 1645511574515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

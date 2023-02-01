@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #421",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/421.png",
+  "dna": "f85ac0f98ec88744c93a7c4f6d92761aedcc35fb",
+  "edition": 421,
+  "date": 1645511172206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

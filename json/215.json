@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #215",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/215.png",
+  "dna": "1f6d3e0ee36667423612bab18f78cb912704538e",
+  "edition": 215,
+  "date": 1645511361276,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

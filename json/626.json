@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #626",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/626.png",
+  "dna": "00a8595eb06eca2b4fb973b808382660bd691443",
+  "edition": 626,
+  "date": 1645511003305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof pink "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "green tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

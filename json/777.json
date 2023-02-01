@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #777",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/777.png",
+  "dna": "903fb996f5d8588c6aa657e06cb5f011af210fa9",
+  "edition": 777,
+  "date": 1645511233849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "gentle men hat red "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

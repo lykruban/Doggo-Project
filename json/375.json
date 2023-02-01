@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #375",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/375.png",
+  "dna": "46ca2f226a955db58f63db2c36064b21c30308d4",
+  "edition": 375,
+  "date": 1645511278418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

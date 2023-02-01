@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #530",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/530.png",
+  "dna": "465d3901393d80a441243cf39cb634cf964912e1",
+  "edition": 530,
+  "date": 1645511697879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "frog "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

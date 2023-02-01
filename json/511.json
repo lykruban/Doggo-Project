@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #511",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/511.png",
+  "dna": "85c7bf8c8c5e8e19bbbec2d64721521f95edb1ff",
+  "edition": 511,
+  "date": 1645511794759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "cyan lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

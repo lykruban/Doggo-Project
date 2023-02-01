@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #528",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/528.png",
+  "dna": "ae3c56e51292bfa09507f91a17bef84670cf3099",
+  "edition": 528,
+  "date": 1645511776025,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

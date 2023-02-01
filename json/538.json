@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #538",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/538.png",
+  "dna": "65725e163e716e14bc911b927bfea258f68a4e88",
+  "edition": 538,
+  "date": 1645511575746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

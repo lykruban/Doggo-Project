@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #130",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/130.png",
+  "dna": "3347a5a8be4987c47e88daba7bfca19791e9f26b",
+  "edition": 130,
+  "date": 1645511191908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "green vomit "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

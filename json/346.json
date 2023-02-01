@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #346",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/346.png",
+  "dna": "bada4de507fa87296ab7ead6f407b5b99776db75",
+  "edition": 346,
+  "date": 1645511136249,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

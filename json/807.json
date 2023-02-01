@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #807",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/807.png",
+  "dna": "b85d9a76d219acbde88d94117c3b828a6058d623",
+  "edition": 807,
+  "date": 1645511007612,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "head one",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue lolipop "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "yellow glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

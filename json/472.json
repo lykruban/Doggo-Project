@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #472",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/472.png",
+  "dna": "bd5ce599b28f0ac2181d507a7a9348d06f26d070",
+  "edition": 472,
+  "date": 1645511866648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "head lamp "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

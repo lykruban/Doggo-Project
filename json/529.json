@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #529",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/529.png",
+  "dna": "afc7a7f91bd63f6dc64c1091ba2dc9398128e4d3",
+  "edition": 529,
+  "date": 1645511917822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

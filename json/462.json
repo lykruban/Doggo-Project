@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #462",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/462.png",
+  "dna": "bdc0eeeb41ec45731a12e8fc5ba9c00af97f106a",
+  "edition": 462,
+  "date": 1645511796597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

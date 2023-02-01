@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #703",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/703.png",
+  "dna": "54eae741acd3a49275e95f011910b11101a8dd3b",
+  "edition": 703,
+  "date": 1645511303303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "blue lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

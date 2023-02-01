@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #23",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/23.png",
+  "dna": "418d68e23f306fdfc84bed4d2cfee6c97ee20e96",
+  "edition": 23,
+  "date": 1645511846708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

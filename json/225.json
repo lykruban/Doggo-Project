@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #225",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/225.png",
+  "dna": "fc57cbdf7c305c7b9379114d2143b9f5197d7b41",
+  "edition": 225,
+  "date": 1645511148950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

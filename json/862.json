@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #862",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/862.png",
+  "dna": "8a6c41afb1a476f48abefafc6b27274dafb5fbf6",
+  "edition": 862,
+  "date": 1645511452866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

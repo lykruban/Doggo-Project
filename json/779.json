@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #779",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/779.png",
+  "dna": "a3bb8739338586162e8ab6f5ddf14ab837b64ad2",
+  "edition": 779,
+  "date": 1645511489413,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

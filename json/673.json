@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #673",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/673.png",
+  "dna": "aa7d135434e471678a8112e52c49e3419e4f66bb",
+  "edition": 673,
+  "date": 1645511263063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

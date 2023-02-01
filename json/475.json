@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #475",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/475.png",
+  "dna": "532ddc0dfbc4f3543b2d75f5e36e32da7b002c8b",
+  "edition": 475,
+  "date": 1645511543434,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

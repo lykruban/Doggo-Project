@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #736",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/736.png",
+  "dna": "063582980ca053957a233e4e693c86bf31355060",
+  "edition": 736,
+  "date": 1645511308126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "angel hollow ring "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

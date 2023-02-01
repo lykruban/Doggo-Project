@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #322",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/322.png",
+  "dna": "9a43aa88dd8b858673e180c5513af02a8b66546e",
+  "edition": 322,
+  "date": 1645511684057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #730",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/730.png",
+  "dna": "c494ce482cd0f93f662b7b44f49a9d1b894b39f1",
+  "edition": 730,
+  "date": 1645511790875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "purple lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

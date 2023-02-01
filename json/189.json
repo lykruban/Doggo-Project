@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #189",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/189.png",
+  "dna": "c4d11f96f01d3931e5a419021089391785b324c9",
+  "edition": 189,
+  "date": 1645511837670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

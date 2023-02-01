@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #704",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/704.png",
+  "dna": "e9d3020dbf93850c736c527dbc263b2fb56c45ea",
+  "edition": 704,
+  "date": 1645511224479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

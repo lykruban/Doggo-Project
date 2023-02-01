@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #196",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/196.png",
+  "dna": "15e76903951e5e6cec18aef721ab04132cd40ef9",
+  "edition": 196,
+  "date": 1645511526048,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

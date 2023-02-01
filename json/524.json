@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #524",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/524.png",
+  "dna": "2a8e0700654719a8f7e3947174acec0997364c92",
+  "edition": 524,
+  "date": 1645511034073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

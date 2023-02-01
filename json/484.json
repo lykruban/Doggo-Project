@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #484",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/484.png",
+  "dna": "e2b69e9b03771b59e0332e9908a6a76822bb71c8",
+  "edition": 484,
+  "date": 1645511660787,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

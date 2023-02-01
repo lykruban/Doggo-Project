@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #785",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/785.png",
+  "dna": "84b6ebfd3b1918e6258600d52a14dff271b68c02",
+  "edition": 785,
+  "date": 1645511475682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat yellow "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

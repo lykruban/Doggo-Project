@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #710",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/710.png",
+  "dna": "706b7d5b87e4e0bb6d44a33a7ba066bcf81c28b5",
+  "edition": 710,
+  "date": 1645511277099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "neck four",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

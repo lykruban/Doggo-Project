@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #243",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/243.png",
+  "dna": "cceceec4a58315321dac21a52f84c2ba5c75d966",
+  "edition": 243,
+  "date": 1645511833527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER yellow "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

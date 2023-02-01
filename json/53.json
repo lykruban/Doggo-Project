@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "ed539021bfddacb1bf314ce8c0805165ddae0ede",
+  "edition": 53,
+  "date": 1645511531199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "cyan tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #587",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/587.png",
+  "dna": "0fb9ed4e624208bd63d61b0cec4c3eabc9ad89b8",
+  "edition": 587,
+  "date": 1645511490632,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "EYELAZER red "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

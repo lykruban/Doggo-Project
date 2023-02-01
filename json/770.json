@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #770",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/770.png",
+  "dna": "169fe5ad3d64d0aefa4634f56508ccc7fc00a8d0",
+  "edition": 770,
+  "date": 1645511735968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "yellow glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

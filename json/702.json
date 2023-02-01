@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #702",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/702.png",
+  "dna": "2f6232f840462ed8167d3cf9e2982bdfb91fb2c0",
+  "edition": 702,
+  "date": 1645511138347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

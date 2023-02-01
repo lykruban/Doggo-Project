@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #238",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/238.png",
+  "dna": "726247f937d09152f8df8b9122c56655f69a7b75",
+  "edition": 238,
+  "date": 1645511760015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/162.png",
+  "dna": "c6021f3b8c4d2e3ef19a0ae8729c0bfd694c9c8e",
+  "edition": 162,
+  "date": 1645511931471,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "EYELAZER blue "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #519",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/519.png",
+  "dna": "18b6450c39a0532bcc21a4ea35d0e41e943b36ed",
+  "edition": 519,
+  "date": 1645511600920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "green tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #613",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/613.png",
+  "dna": "2f8576417e5bf5b09cde17b5c8464154e630215f",
+  "edition": 613,
+  "date": 1645511485327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

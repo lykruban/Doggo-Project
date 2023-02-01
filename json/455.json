@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #455",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/455.png",
+  "dna": "a8289230bff3b28cdca13911bfd7c3aa894b6555",
+  "edition": 455,
+  "date": 1645511940559,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "yellow lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

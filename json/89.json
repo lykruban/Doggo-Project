@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #89",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/89.png",
+  "dna": "ea0543ec9b7f237ab1dca5290231e1eba07f5f13",
+  "edition": 89,
+  "date": 1645510996474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

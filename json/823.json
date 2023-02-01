@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #823",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/823.png",
+  "dna": "93d8ff12fc3a7deb8f9cfbd369230430d4b2eb55",
+  "edition": 823,
+  "date": 1645511362528,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "ears four",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "cyan lips "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

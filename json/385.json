@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #385",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/385.png",
+  "dna": "bf4f008d380b1f500ffea85c038b1ffa7ac7c58a",
+  "edition": 385,
+  "date": 1645511306915,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow pink "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER green "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

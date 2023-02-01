@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #551",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/551.png",
+  "dna": "4d4bb3c55606e9b4bb12770196f52cf91b3fb602",
+  "edition": 551,
+  "date": 1645511058034,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat yellow "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "cyan tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "eyelashes "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

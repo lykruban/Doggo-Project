@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #458",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/458.png",
+  "dna": "a45fe7ed3bc71e9bec983806d5df565abe1da2ae",
+  "edition": 458,
+  "date": 1645511858364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears seven",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "angel hollow ring "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

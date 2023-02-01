@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #127",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/127.png",
+  "dna": "daefcd62f629f82d563abf5ea89cc68f2dfede51",
+  "edition": 127,
+  "date": 1645511588981,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

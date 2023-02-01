@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #573",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/573.png",
+  "dna": "cdd446d50828ff8b8ad9ff32859d56f6fa780f81",
+  "edition": 573,
+  "date": 1645511923694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "yellow hearts "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #518",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/518.png",
+  "dna": "987dac73d26076e06fe6f27cfbea0c528c4ebfba",
+  "edition": 518,
+  "date": 1645511113903,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears two",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat cyan "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

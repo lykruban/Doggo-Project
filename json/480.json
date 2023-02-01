@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #480",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/480.png",
+  "dna": "b50e073992ece4d409df035c40d5be27a1169d16",
+  "edition": 480,
+  "date": 1645511937292,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth eight",
+      "value": "cigarette "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

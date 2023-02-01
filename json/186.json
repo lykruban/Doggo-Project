@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #186",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/186.png",
+  "dna": "8a03da5bbea7212d1d298ed9f229a1b64f11dd2e",
+  "edition": 186,
+  "date": 1645511537198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "yellow tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

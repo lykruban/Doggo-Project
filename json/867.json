@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #867",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/867.png",
+  "dna": "056d44c415df165df454f89b09387565767837ea",
+  "edition": 867,
+  "date": 1645511545942,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "head six",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "yellow hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

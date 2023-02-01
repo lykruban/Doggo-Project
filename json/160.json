@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #160",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/160.png",
+  "dna": "cc3f51c85201b907ae1e58ee1994763290b70263",
+  "edition": 160,
+  "date": 1645511183561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof red "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat red "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "purple tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "eyelashes "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

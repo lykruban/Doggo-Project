@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #615",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/615.png",
+  "dna": "fb0d44f5b181540a5bb2c51e5ea92612db2d796e",
+  "edition": 615,
+  "date": 1645510974144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base one",
+      "value": "one "
+    },
+    {
+      "trait_type": "neck one",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears one",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head one",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth one",
+      "value": "pink red tongue "
+    },
+    {
+      "trait_type": "eyes one",
+      "value": "red glasses "
+    },
+    {
+      "trait_type": "legs one",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #26",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "04b5607b30e4ba780395b7daf8dac06e33375d71",
+  "edition": 26,
+  "date": 1645511118188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof peach "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "red hearts "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

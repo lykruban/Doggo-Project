@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #629",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/629.png",
+  "dna": "6840c12d530951c4af71d20cec2dff4fb34f615c",
+  "edition": 629,
+  "date": 1645511075015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog two "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head two",
+      "value": "gentleman hat blue "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "purple  tongue "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

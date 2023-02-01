@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #431",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/431.png",
+  "dna": "d121fa3c3b0079569842e939c5fbe8f1ed4dee79",
+  "edition": 431,
+  "date": 1645511825403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "red lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

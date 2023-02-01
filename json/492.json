@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #492",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/492.png",
+  "dna": "89b301c7d1864a37f7327b0e4a9f52185e43d1e8",
+  "edition": 492,
+  "date": 1645511206268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "ears three",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat yellow "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "rainbow vomit "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

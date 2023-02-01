@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #753",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/753.png",
+  "dna": "38e7da383d06b397872c8a9f3c1e62df7ffd751a",
+  "edition": 753,
+  "date": 1645511211380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "head three",
+      "value": "gentle men hat "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "orange tongue "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "EYELAZER blue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #13",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "a37878a66bda98c0ff7cd5c6c509a433f5acc92b",
+  "edition": 13,
+  "date": 1645511081658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof yellow "
+    },
+    {
+      "trait_type": "base two",
+      "value": "two "
+    },
+    {
+      "trait_type": "neck two",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head two",
+      "value": "hollow ring "
+    },
+    {
+      "trait_type": "mouth two",
+      "value": "pink tongue lolipop "
+    },
+    {
+      "trait_type": "eyes two",
+      "value": "eyebrows "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

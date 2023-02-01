@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #126",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/126.png",
+  "dna": "dd92a2cbf086921700b0d713067b48cdfe9f4ba7",
+  "edition": 126,
+  "date": 1645511297359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof blue "
+    },
+    {
+      "trait_type": "base four",
+      "value": "four "
+    },
+    {
+      "trait_type": "head four",
+      "value": "propeller hat purple "
+    },
+    {
+      "trait_type": "mouth four",
+      "value": "yellow lips "
+    },
+    {
+      "trait_type": "eyes four",
+      "value": "EYELAZER purple "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

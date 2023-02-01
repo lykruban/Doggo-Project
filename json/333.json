@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #333",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/333.png",
+  "dna": "cdbdd00156cc948757c95d462b025baa4a7777f0",
+  "edition": 333,
+  "date": 1645511458884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog yellow "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "green glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

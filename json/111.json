@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #111",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/111.png",
+  "dna": "5026f9ff88039200c369bdc3c5dc4e1082cd7aa6",
+  "edition": 111,
+  "date": 1645511190908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog green "
+    },
+    {
+      "trait_type": "base three",
+      "value": "three "
+    },
+    {
+      "trait_type": "neck three",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head three",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth three",
+      "value": "pink red tongue lolipop "
+    },
+    {
+      "trait_type": "eyes three",
+      "value": "cyan glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

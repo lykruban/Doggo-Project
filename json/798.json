@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #798",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/798.png",
+  "dna": "8b5f178ecb4ca3296ae7908c106dcf5d6f547fcc",
+  "edition": 798,
+  "date": 1645511705784,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof light green "
+    },
+    {
+      "trait_type": "base seven",
+      "value": "seven "
+    },
+    {
+      "trait_type": "neck seven",
+      "value": "collar mail "
+    },
+    {
+      "trait_type": "head seven",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth seven",
+      "value": "green lips "
+    },
+    {
+      "trait_type": "eyes seven",
+      "value": "EYELAZER cyan "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

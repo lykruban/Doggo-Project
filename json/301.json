@@ -1,0 +1,35 @@
+{
+  "name": "Your Collection #301",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/301.png",
+  "dna": "d617706c5343816208c66fb5a1f9138489adbebd",
+  "edition": 301,
+  "date": 1645511498485,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "woof green "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "neck six",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    },
+    {
+      "trait_type": "eyes six",
+      "value": "blue glasses "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #714",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/714.png",
+  "dna": "530125a0b425259485592abe724b645e36099ed0",
+  "edition": 714,
+  "date": 1645511640757,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog purple "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "ear ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat cyan "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "purple  tongue "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

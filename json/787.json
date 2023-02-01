@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #787",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/787.png",
+  "dna": "2ddf62949cae43d27555afe41826022d2218fed1",
+  "edition": 787,
+  "date": 1645511912665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dog four "
+    },
+    {
+      "trait_type": "base eight",
+      "value": "eight "
+    },
+    {
+      "trait_type": "neck eight",
+      "value": "m chain "
+    },
+    {
+      "trait_type": "ears eight",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head eight",
+      "value": "head lamp "
+    },
+    {
+      "trait_type": "eyes eight",
+      "value": "blue glasses "
+    },
+    {
+      "trait_type": "legs eight",
+      "value": "leg rings "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #209",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/209.png",
+  "dna": "3184ed48004bfa24ffb139840517e9808ad42f0a",
+  "edition": 209,
+  "date": 1645511648851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "clouds "
+    },
+    {
+      "trait_type": "base six",
+      "value": "six "
+    },
+    {
+      "trait_type": "ears six",
+      "value": "shark ring "
+    },
+    {
+      "trait_type": "head six",
+      "value": "propeller hat green "
+    },
+    {
+      "trait_type": "mouth six",
+      "value": "blue tongue lolipop "
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
